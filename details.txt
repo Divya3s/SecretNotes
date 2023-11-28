@@ -1,0 +1,26 @@
+register, login, password reset, index, 
+
+1. notes   (add, view, edit, delete)
+
+2. bookmark  (add, view, edit, delete)
+
+3. contact  (add, view, edit, delete)
+
+4. list  (add, view, edit, delete)
+
+5. routine  (add, view, edit, delete)
+
+6. things to do  (add, view, edit, delete)
+
+7. 
+
+
+
+to do
+ 1. improve security because any users can read notes created by others just putting nid in edit and view
+
+ 2. improve textarea 
+
+ 3. add email functionality
+
+ 4. add password reset functionality using email.
